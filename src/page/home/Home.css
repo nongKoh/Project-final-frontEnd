@@ -1,0 +1,23 @@
+.Home {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100;
+}
+.Left {
+    width: 25%;
+    max-width: 280px;
+    background-color: #F1FAEE;
+    display: flex;
+    /* justify-content: center; */
+    align-items: flex-start;
+    flex-direction: column;
+    min-height: 45em;
+    padding-top: 20px;
+    padding-left: 32px;
+}
+.Right {
+    width: 75%;
+    background-color: white;
+    padding: 32px;
+}

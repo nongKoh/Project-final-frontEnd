@@ -1,0 +1,17 @@
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: #E63946;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.userLogin{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 60px;
+}

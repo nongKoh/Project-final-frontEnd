@@ -1,0 +1,25 @@
+.Report{
+    width: 100%;
+    padding: 32px;
+    /* grayscale / white */
+    
+    background: #FFFFFF;
+    /* grayscale / divider */
+    
+    border: 1px solid #DFE0EB;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.Row {
+    
+position: absolute;
+height: 0px;
+left: 0px;
+right: 0px;
+top: calc(50% - 0px/2);
+
+/* grayscale / divider */
+
+border: 1.5px solid #DFE0EB;
+}
